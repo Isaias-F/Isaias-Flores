@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Isaias-Flores
+- 👋 Hi, I’m @Isaias-F
 - 👀 I’m interested in python, games, anime, waifus, etc.
-- 🌱 I’m currently learning python, flask, sql, javascript.
+- 🌱 I’m currently learning Java, HTML, CSS
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me: send me a DM in my Instagram: @alion_dark_
 
